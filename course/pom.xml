@@ -15,6 +15,14 @@
     <name>course</name>
     <description>Exemplo de microsserviço com Spring Boot</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>me.gabreuw</groupId>
+            <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>

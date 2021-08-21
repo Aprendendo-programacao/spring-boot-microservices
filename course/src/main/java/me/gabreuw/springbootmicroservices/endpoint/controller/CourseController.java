@@ -2,8 +2,8 @@ package me.gabreuw.springbootmicroservices.endpoint.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
+import me.gabreuw.core.model.Course;
 import me.gabreuw.springbootmicroservices.endpoint.service.CourseService;
-import me.gabreuw.springbootmicroservices.model.Course;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

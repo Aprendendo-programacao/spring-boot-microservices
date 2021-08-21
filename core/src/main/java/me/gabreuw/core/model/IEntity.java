@@ -1,4 +1,4 @@
-package me.gabreuw.springbootmicroservices.model;
+package me.gabreuw.core.model;
 
 import java.io.Serializable;
 

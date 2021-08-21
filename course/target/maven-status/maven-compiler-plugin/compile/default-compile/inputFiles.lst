@@ -1,6 +1,3 @@
 /home/gabriel/Projects/spring-boot-microservices/course/src/main/java/me/gabreuw/springbootmicroservices/endpoint/service/CourseService.java
 /home/gabriel/Projects/spring-boot-microservices/course/src/main/java/me/gabreuw/springbootmicroservices/endpoint/controller/CourseController.java
-/home/gabriel/Projects/spring-boot-microservices/course/src/main/java/me/gabreuw/springbootmicroservices/model/IEntity.java
-/home/gabriel/Projects/spring-boot-microservices/course/src/main/java/me/gabreuw/springbootmicroservices/repository/CourseRepository.java
-/home/gabriel/Projects/spring-boot-microservices/course/src/main/java/me/gabreuw/springbootmicroservices/model/Course.java
 /home/gabriel/Projects/spring-boot-microservices/course/src/main/java/me/gabreuw/springbootmicroservices/SpringBootMicroservicesApplication.java
